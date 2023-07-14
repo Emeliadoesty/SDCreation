@@ -1,0 +1,76 @@
+p {
+  margin-bottom: 0%;
+  margin-top: 0%;
+}
+.search {
+  width: 600px;
+  height: 37px;
+  font-size: 17px;
+  font-family: toboto;
+  border-radius: 18px;
+  box-shadow: 0px 1px 5px rgb(99, 81, 81);
+  margin-left: 12px;
+  border: none;
+  font-family: toboto;
+  transition: 15s;
+}
+
+.search:hover {
+  border: none;
+}
+
+.search:active {
+  border: none;
+}
+
+.google {
+  margin-left: 128px;
+  display: block;
+}
+
+.gs {
+  margin-top: 12px;
+  margin-right: 12px;
+  margin-left: 109px;
+  border: none;
+  background-color: rgb(171, 241, 218);
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  cursor: pointer;
+  font-family: toboto;
+  font-weight: 19px;
+  font-size: 20px;
+  transition: 0.10s;
+  border-radius: 5px;
+}
+.gs:hover {
+  opacity: 0.8;
+}
+.gs:active {
+  opacity: 0.3;
+  box-shadow: 1px 1px 4px black;
+}
+
+.ifl {
+  border: none;
+  background-color: rgb(171, 241, 218);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  font-size: 20px;
+  font-family: toboto;
+  font-weight: 19px;
+  cursor: pointer;
+  transition: 0.10s; 
+  border-radius: 5px;       
+}
+.ifl:hover {
+  opacity: 0.8;
+}
+.ifl:active {
+  opacity: 0.3;
+  box-shadow: 1px 1px 4px black;
+}
